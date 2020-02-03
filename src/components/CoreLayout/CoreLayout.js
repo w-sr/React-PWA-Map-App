@@ -56,7 +56,7 @@ class CoreLayout extends React.Component {
               </NavLink>
             </div>
             <div>
-              <a href='https://github.com/lirbaj/React-PWA-Map-App' target='_blank'
+              <a href='https://github.com/shakacu/React-PWA-Map-App' target='_blank'
                 className='mdl-navigation__link'>
                 <i className='material-icons mdl-list__item-icon'>code</i> See the code
               </a>

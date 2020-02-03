@@ -80,7 +80,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lirbaj/React-PWA-Map-App.git"
+    "url": "git+https://github.com/shakacu/React-PWA-Map-App.git"
   },
   "license": "MIT",
   "dependencies": {
